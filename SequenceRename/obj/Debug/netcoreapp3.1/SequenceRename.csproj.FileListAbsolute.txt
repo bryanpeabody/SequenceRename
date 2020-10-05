@@ -1,0 +1,15 @@
+C:\Users\Bryan Peabody\Source\SequenceRename\SequenceRename\bin\Debug\netcoreapp3.1\SequenceRename.exe
+C:\Users\Bryan Peabody\Source\SequenceRename\SequenceRename\bin\Debug\netcoreapp3.1\SequenceRename.deps.json
+C:\Users\Bryan Peabody\Source\SequenceRename\SequenceRename\bin\Debug\netcoreapp3.1\SequenceRename.runtimeconfig.json
+C:\Users\Bryan Peabody\Source\SequenceRename\SequenceRename\bin\Debug\netcoreapp3.1\SequenceRename.runtimeconfig.dev.json
+C:\Users\Bryan Peabody\Source\SequenceRename\SequenceRename\bin\Debug\netcoreapp3.1\SequenceRename.dll
+C:\Users\Bryan Peabody\Source\SequenceRename\SequenceRename\bin\Debug\netcoreapp3.1\SequenceRename.pdb
+C:\Users\Bryan Peabody\Source\SequenceRename\SequenceRename\obj\Debug\netcoreapp3.1\SequenceRename.csprojAssemblyReference.cache
+C:\Users\Bryan Peabody\Source\SequenceRename\SequenceRename\obj\Debug\netcoreapp3.1\SequenceRename.Form1.resources
+C:\Users\Bryan Peabody\Source\SequenceRename\SequenceRename\obj\Debug\netcoreapp3.1\SequenceRename.csproj.GenerateResource.cache
+C:\Users\Bryan Peabody\Source\SequenceRename\SequenceRename\obj\Debug\netcoreapp3.1\SequenceRename.AssemblyInfoInputs.cache
+C:\Users\Bryan Peabody\Source\SequenceRename\SequenceRename\obj\Debug\netcoreapp3.1\SequenceRename.AssemblyInfo.cs
+C:\Users\Bryan Peabody\Source\SequenceRename\SequenceRename\obj\Debug\netcoreapp3.1\SequenceRename.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Peabody\Source\SequenceRename\SequenceRename\obj\Debug\netcoreapp3.1\SequenceRename.dll
+C:\Users\Bryan Peabody\Source\SequenceRename\SequenceRename\obj\Debug\netcoreapp3.1\SequenceRename.pdb
+C:\Users\Bryan Peabody\Source\SequenceRename\SequenceRename\obj\Debug\netcoreapp3.1\SequenceRename.genruntimeconfig.cache
